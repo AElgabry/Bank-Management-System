@@ -13,6 +13,7 @@ This project focuses purely on the **data layer** — entity modeling, relations
 - **.NET 8**
 - **C#**
 - **Entity Framework Core** (Code-First, Fluent API)
+- **LINQ** (querying, filtering, and eager loading via `Include`/`ThenInclude`)
 - **SQL Server**
 
 ## Entity Relationship Diagram
@@ -56,6 +57,7 @@ The schema is based on the following relationships:
 - **`AccountNumber` configured with `ValueGeneratedNever()`** — account numbers are assigned by the application/user rather than auto-generated as a database identity column.
 - **Enums for closed, fixed-value fields** (`CustomerType`, `OwnerShipType`, `AccountStatus`), while `AccountType` and `TransactionType` are kept as `string` since the case study describes them as open-ended ("savings, current, business, etc.").
 - **`decimal(18,2)` precision** explicitly set on all currency fields (`CurrentBalance`, `TransactionAmount`) to avoid silent truncation.
+- **LINQ over navigation properties, not manual joins** — since every relationship is configured via Fluent API, queries traverse the model using `.Include()`/`.ThenInclude()` chains (e.g., `Customer → CustomerAccount → Account → Branch`) instead of manual `.Join()` syntax, keeping the querying code aligned with the modeled relationships.
 
 ## Seeded Data
 
