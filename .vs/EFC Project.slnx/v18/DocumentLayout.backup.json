@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Full-Stack\\Back-End\\EFC Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|e:\\full-stack\\back-end\\efc project\\efc project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|solutionrelative:efc project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|e:\\full-stack\\back-end\\efc project\\efc project\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|solutionrelative:efc project\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|e:\\full-stack\\back-end\\efc project\\efc project\\enum\\accountstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|solutionrelative:efc project\\enum\\accountstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|e:\\full-stack\\back-end\\efc project\\efc project\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|solutionrelative:efc project\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|e:\\full-stack\\back-end\\efc project\\efc project\\models\\customeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|solutionrelative:efc project\\models\\customeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|e:\\full-stack\\back-end\\efc project\\efc project\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|solutionrelative:efc project\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|e:\\full-stack\\back-end\\efc project\\efc project\\enum\\ownershiptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|solutionrelative:efc project\\enum\\ownershiptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|e:\\full-stack\\back-end\\efc project\\efc project\\enum\\customertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|solutionrelative:efc project\\enum\\customertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|e:\\full-stack\\back-end\\efc project\\efc project\\app context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|solutionrelative:efc project\\app context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|e:\\full-stack\\back-end\\efc project\\efc project\\configurations\\accountconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|solutionrelative:efc project\\configurations\\accountconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Migrations\\20260714043226_Fixing Account Number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EFC Project\\Migrations\\20260714043226_Fixing Account Number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|e:\\full-stack\\back-end\\efc project\\efc project\\configurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|solutionrelative:efc project\\configurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|e:\\full-stack\\back-end\\efc project\\efc project\\configurations\\managerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|solutionrelative:efc project\\configurations\\managerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|e:\\full-stack\\back-end\\efc project\\efc project\\configurations\\customeraccountconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|solutionrelative:efc project\\configurations\\customeraccountconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|e:\\full-stack\\back-end\\efc project\\efc project\\configurations\\branchconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|solutionrelative:efc project\\configurations\\branchconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|e:\\full-stack\\back-end\\efc project\\efc project\\configurations\\transactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|solutionrelative:efc project\\configurations\\transactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|e:\\full-stack\\back-end\\efc project\\efc project\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|solutionrelative:efc project\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|e:\\full-stack\\back-end\\efc project\\efc project\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30095962-BBD9-80CF-0F36-9D50519ECA9B}|EFC Project\\EFC Project.csproj|solutionrelative:efc project\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260714043226_Fixing Account Number.cs",
+              "DocumentMoniker": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Migrations\\20260714043226_Fixing Account Number.cs",
+              "RelativeDocumentMoniker": "EFC Project\\Migrations\\20260714043226_Fixing Account Number.cs",
+              "ToolTip": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Migrations\\20260714043226_Fixing Account Number.cs",
+              "RelativeToolTip": "EFC Project\\Migrations\\20260714043226_Fixing Account Number.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T04:32:26.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerConfiguration.cs",
+              "DocumentMoniker": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Configurations\\CustomerConfiguration.cs",
+              "RelativeDocumentMoniker": "EFC Project\\Configurations\\CustomerConfiguration.cs",
+              "ToolTip": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Configurations\\CustomerConfiguration.cs",
+              "RelativeToolTip": "EFC Project\\Configurations\\CustomerConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBgAAAA5AQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T00:59:40.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManagerConfiguration.cs",
+              "DocumentMoniker": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Configurations\\ManagerConfiguration.cs",
+              "RelativeDocumentMoniker": "EFC Project\\Configurations\\ManagerConfiguration.cs",
+              "ToolTip": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Configurations\\ManagerConfiguration.cs",
+              "RelativeToolTip": "EFC Project\\Configurations\\ManagerConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAADDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T00:49:26.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerAccountConfiguration.cs",
+              "DocumentMoniker": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Configurations\\CustomerAccountConfiguration.cs",
+              "RelativeDocumentMoniker": "EFC Project\\Configurations\\CustomerAccountConfiguration.cs",
+              "ToolTip": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Configurations\\CustomerAccountConfiguration.cs",
+              "RelativeToolTip": "EFC Project\\Configurations\\CustomerAccountConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T00:49:21.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountConfiguration.cs",
+              "DocumentMoniker": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Configurations\\AccountConfiguration.cs",
+              "RelativeDocumentMoniker": "EFC Project\\Configurations\\AccountConfiguration.cs",
+              "ToolTip": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Configurations\\AccountConfiguration.cs",
+              "RelativeToolTip": "EFC Project\\Configurations\\AccountConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T00:47:48.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BranchConfiguration.cs",
+              "DocumentMoniker": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Configurations\\BranchConfiguration.cs",
+              "RelativeDocumentMoniker": "EFC Project\\Configurations\\BranchConfiguration.cs",
+              "ToolTip": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Configurations\\BranchConfiguration.cs",
+              "RelativeToolTip": "EFC Project\\Configurations\\BranchConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T00:47:43.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TransactionConfiguration.cs",
+              "DocumentMoniker": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Configurations\\TransactionConfiguration.cs",
+              "RelativeDocumentMoniker": "EFC Project\\Configurations\\TransactionConfiguration.cs",
+              "ToolTip": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Configurations\\TransactionConfiguration.cs",
+              "RelativeToolTip": "EFC Project\\Configurations\\TransactionConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T00:45:44.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OwnerShipType.cs",
+              "DocumentMoniker": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Enum\\OwnerShipType.cs",
+              "RelativeDocumentMoniker": "EFC Project\\Enum\\OwnerShipType.cs",
+              "ToolTip": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Enum\\OwnerShipType.cs",
+              "RelativeToolTip": "EFC Project\\Enum\\OwnerShipType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T21:51:01.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountStatus.cs",
+              "DocumentMoniker": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Enum\\AccountStatus.cs",
+              "RelativeDocumentMoniker": "EFC Project\\Enum\\AccountStatus.cs",
+              "ToolTip": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Enum\\AccountStatus.cs",
+              "RelativeToolTip": "EFC Project\\Enum\\AccountStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T21:50:01.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "EFC Project\\Models\\Account.cs",
+              "ToolTip": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Models\\Account.cs",
+              "RelativeToolTip": "EFC Project\\Models\\Account.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T21:40:55.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerAccount.cs",
+              "DocumentMoniker": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Models\\CustomerAccount.cs",
+              "RelativeDocumentMoniker": "EFC Project\\Models\\CustomerAccount.cs",
+              "ToolTip": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Models\\CustomerAccount.cs",
+              "RelativeToolTip": "EFC Project\\Models\\CustomerAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T21:48:40.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "EFC Project\\Models\\Customer.cs",
+              "ToolTip": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Models\\Customer.cs",
+              "RelativeToolTip": "EFC Project\\Models\\Customer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T21:33:10.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "EFC Project\\Models\\Transaction.cs",
+              "ToolTip": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Models\\Transaction.cs",
+              "RelativeToolTip": "EFC Project\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T21:44:47.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerType.cs",
+              "DocumentMoniker": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Enum\\CustomerType.cs",
+              "RelativeDocumentMoniker": "EFC Project\\Enum\\CustomerType.cs",
+              "ToolTip": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Enum\\CustomerType.cs",
+              "RelativeToolTip": "EFC Project\\Enum\\CustomerType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T21:37:54.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "EFC Project\\Models\\Branch.cs",
+              "ToolTip": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Models\\Branch.cs",
+              "RelativeToolTip": "EFC Project\\Models\\Branch.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T21:27:34.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "EFC Project\\Models\\Manager.cs",
+              "ToolTip": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Models\\Manager.cs",
+              "RelativeToolTip": "EFC Project\\Models\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T21:24:58.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Program.cs",
+              "RelativeDocumentMoniker": "EFC Project\\Program.cs",
+              "ToolTip": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\Program.cs",
+              "RelativeToolTip": "EFC Project\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwDMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T20:59:29.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\App Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EFC Project\\App Context\\AppDbContext.cs",
+              "ToolTip": "E:\\Full-Stack\\Back-End\\EFC Project\\EFC Project\\App Context\\AppDbContext.cs",
+              "RelativeToolTip": "EFC Project\\App Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T21:12:39.785Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
